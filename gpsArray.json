@@ -52,7 +52,7 @@
                 "lat2": 13.4567
             }
         ],
-        "whackAMole": [
+        "WhackAMole": [
             {
                 "long1": 45.1234,
                 "lat1": 12.3456,
@@ -78,7 +78,7 @@
                 "lat2": 13.4567
             }
         ],
-        "fallingTiles": [
+        "FallingTiles": [
             {
                 "long1": 45.1234,
                 "lat1": 12.3456,
